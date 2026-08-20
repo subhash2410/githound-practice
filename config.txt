@@ -1,1 +1,3 @@
+GitHound training demonstration
 API_KEY=FAKE_GITHOUND_TRAINING_KEY_123456789
+githound-demo-2026
